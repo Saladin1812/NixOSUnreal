@@ -3,7 +3,7 @@
 #
 #XXX:═══════════ (optional) Optional Path for multiples Unreal Engine versions ═════════════════
 # INFO: (optional) LATEST Unreal Epic binary build
-export UE_LATEST_BIN="$HOME/Repos/Unreal/Engines/Linux_Unreal_Engine_5.7.4"
+export UE_LATEST_BIN="$HOME/Repos/Unreal/Engines/Linux_Unreal_Engine_5.6.1"
 # INFO: (optional) LATEST Unreal source build
 export UE_LATEST_SRC="$HOME/Documents/gamedev/UnrealEngine/Engines/latest_src"
 # INFO: (optional) PROD Unreal 5.7.n
