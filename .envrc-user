@@ -3,7 +3,7 @@
 #
 #XXX:═══════════ (optional) Optional Path for multiples Unreal Engine versions ═════════════════
 # INFO: (optional) LATEST Unreal Epic binary build
-export UE_LATEST_BIN="$HOME/Documents/gamedev/UnrealEngine/Engines/latest_bin"
+export UE_LATEST_BIN="$HOME/Repos/Unreal/Engines/Linux_Unreal_Engine_5.7.4"
 # INFO: (optional) LATEST Unreal source build
 export UE_LATEST_SRC="$HOME/Documents/gamedev/UnrealEngine/Engines/latest_src"
 # INFO: (optional) PROD Unreal 5.7.n
@@ -53,7 +53,7 @@ export UE_FIXED_ARGS="-savevulkanpsocacheonexit -ForceFrontendRenderThread -nosp
 # HACK: UE_NO_RELATIVE_MOUSE
 #   Disables SDL's relative mouse mode, mandatory under KDE Plasma
 #   Mandatory to mouse issues with remote desktop (VNC/Sunshine/Parsec)
-export UE_NO_RELATIVE_MOUSE=1
+export UE_NO_RELATIVE_MOUSE=0
 
 # INFO: UE_GPU_CRASH_DEBUG
 #   NOTE: Small runtime performance overhead.
